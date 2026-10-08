@@ -13,7 +13,7 @@ import { Home, Archive, Tag, User, MessageCircle, Tv, Share2,Image, HelpCircle, 
  */
 
 // 1. 网站标题（显示在浏览器标签页上）
-export const SITE_TITLE = "张三的个人博客";
+export const SITE_TITLE = "彩虹工作室的个人博客";
 
 // 2. 网站首页描述（显示在首页标题下方，简短介绍）
 export const HOME_PAGE_DESCRIPTION = "分享关于设计、技术与创意过程的思考。";
@@ -25,13 +25,13 @@ export const HOME_PAGE_DESCRIPTION = "分享关于设计、技术与创意过程
  */
 
 // 3. 用户名
-export const AUTHOR_NAME = "张三";
+export const AUTHOR_NAME = "彩虹";
 
 // 4. 职业称号/简介
 export const AUTHOR_TITLE = "一个热爱生活的开发者";
 
 // 5. 联系邮箱/链接 (显示在头像下方)
-export const AUTHOR_CONTACT = "mailto:webmaster@example.com";
+export const AUTHOR_CONTACT = "admin@awsa.me";
 
 // 6. 头像图片路径
 // 可以使用远程链接，或者将图片放入 public/images/ 后使用 "/images/文件名.jpg"
